@@ -7,6 +7,11 @@ This analyzes how daily habits impact a user's health score using structured hea
 - Pandas
 - MySQL
 
+## Note on Dataset
+
+The data used in here is dummy data created as part of the other project(HealthyIO).  
+It is intended for practice and analysis purposes only.
+
 ## What I Did
 - Loaded data from multiple tables (profile, health_score, physical_exercise, food_intake)
 - Merged datasets using common keys (user_id, log_id)
