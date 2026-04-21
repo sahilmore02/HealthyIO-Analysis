@@ -25,11 +25,12 @@ It is intended for practice and analysis purposes only.
 - Water Intake vs Health Score
 - Age Groups vs Health Score
 
-## Key Insights
-- Higher sleep hours were associated with better health scores  
-- Increased water intake showed a positive trend with health  
-- High-intensity exercises performed better than low-activity routines  
-- The 30–60 age group showed higher average scores compared to younger users  
+## Key Findings
+
+- Users with higher sleep hours tend to have better health scores  
+- Higher water intake shows a positive relationship with health  
+- High-intensity exercises result in better scores  
+- Middle age group (30–60) shows relatively higher average health scores  
 
 ## How to Run
 1. Make sure MySQL is running and the `healthyIO` database is available  
