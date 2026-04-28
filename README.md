@@ -39,4 +39,4 @@ It is intended for practice and analysis purposes only.
    host="localhost"
    user="your_username"
    password="your_password"
-   database="healthyIO"
+   database="healthyIO" 
